@@ -1,5 +1,5 @@
 Тестовое задание для стажера на позицию «Автотестирование Java»
-=
+==========
 Тесты запускаются командой:
 >mvn clean test -DsuiteXMLFile=bolozovskiiTask.xml
 >
