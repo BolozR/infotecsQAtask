@@ -1,7 +1,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="Mobox" verbose="1" >
-    <test name="Functionsl Tests">
+<suite name="QAtask" verbose="1" >
+    <test name="API Tests">
         <classes>
             <class name="Configuration"/>
             <class name="ApiTest"/>
